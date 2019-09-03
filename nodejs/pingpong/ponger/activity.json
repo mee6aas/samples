@@ -1,0 +1,4 @@
+{
+    "name": "ponger",
+    "runtime": "nodejs:latest"
+}

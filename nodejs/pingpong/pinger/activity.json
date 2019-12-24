@@ -1,4 +1,7 @@
 {
     "name": "pinger",
-    "runtime": "nodejs:latest"
+    "runtime": "nodejs:latest",
+    "dependencies": {
+        "ponger": {}
+    }
 }
